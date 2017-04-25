@@ -1,1 +1,1 @@
-worker : node <nom_du_fichier>.js
+worker : node <nom_du_fichier>.js 
