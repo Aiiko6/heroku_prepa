@@ -1,0 +1,14 @@
+{
+  "name": "herokuHT",
+  "version": "1.1.0",
+  "description": "pour upload sur heroku",
+  "main": "sinon",
+  "scripts": {
+    "start" : "node <nom du fichier>.js"
+  },
+  "author": "highway traffic",
+  "license": "MIT",
+  "dependencies": {
+    "ajouter vos dependances"
+  }
+}
