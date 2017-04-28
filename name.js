@@ -6,7 +6,7 @@ const prefix = '!';
 client.on("ready", () => {
   var servers = client.guilds.array().map(g => g.name).join(',');
   console.log("--------------------------------------");
-  console.log('[!]Connexion en cours... \n[!]Veuillez Patienté! \n[!]Les évenement sont après ! :)  \n[!]Les préfix actuelle:  ' + prefix + "\n[!]Mentions = " + mention);
+  
   client.user.setGame("#test", "http://twitch.tv/highwaytraffic"); //Joue à ...
 });
 
